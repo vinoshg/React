@@ -122,7 +122,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 const date = new Date();
-//const date = new Date(2023,10,30,15); //10:30:15
+//const date = new Date(2023,1,1,15); //15 hour - yyyy,mm,dd,hh
 const currentTime = date.getHours();
 
 let greeting;
