@@ -1,6 +1,5 @@
-Technical Evaluation- Vinosh- Java Developer-MBRDI
-Wednesday, 5 Mar  •  2:00 – 2:30 pm
-Google Meet joining info
-Video call link: https://meet.google.com/ini-iabr-afh
-Or dial: +1 470-735-3213 PIN: 550 348 085#
-More phone numbers: https://tel.meet/ini-iabr-afh?pin=6873657258530
+https://cx.persistent.com/scheduling/session-join?c=eyJpdiI6IjIwMzdkODU3ZGZjNmIyNDZhNDAxNGU3NDU3ZWU0YjFkIiwiZGF0YSI6IjQ4M2QyMTM3MjExZmJkMjAwMzliZjFkYTBlZDg4YjJlYTZlNjdiNDU4YWIxZGVjNDY1MWM5ZDU3ZTY5ZmJjODM1YWFjODFjNjZlZWRiYTU5ZWNlYjljZjFhOTNjOWMzYiJ9&meetingId=171584&meetingParticipantId=667504&tid=2867
+
+Click here to confirm your participation.
+ Join Interview
+Read instructions here.
