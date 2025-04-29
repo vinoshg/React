@@ -1,5 +1,3 @@
 https://cx.persistent.com/scheduling/session-join?c=eyJpdiI6IjIwMzdkODU3ZGZjNmIyNDZhNDAxNGU3NDU3ZWU0YjFkIiwiZGF0YSI6IjQ4M2QyMTM3MjExZmJkMjAwMzliZjFkYTBlZDg4YjJlYTZlNjdiNDU4YWIxZGVjNDY1MWM5ZDU3ZTY5ZmJjODM1YWFjODFjNjZlZWRiYTU5ZWNlYjljZjFhOTNjOWMzYiJ9&meetingId=171584&meetingParticipantId=667504&tid=2867
 
-Click here to confirm your participation.
- Join Interview
-Read instructions here.
+
